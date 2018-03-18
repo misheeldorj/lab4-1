@@ -6,7 +6,7 @@ using namespace std;
 	{
 	public:				// ene classd public gishuun ugugdul bolon function zarlaj baina 
 	int num;
-	string name;			
+	string name;			// ene ner shuu 
 	string position;	
 	float hour;
 	float perhour; 
