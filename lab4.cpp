@@ -64,7 +64,7 @@ using namespace std;
 
 		float employee :: bosscalculate() // zahiraliin tsalin bodoh func 
 		{
-			boss=hour*(perhour*2); 
+			boss=hour*(perhour*5); // herev boss bol tsalin 5 dahin ih bn 
 			return boss; 
 		}
 
